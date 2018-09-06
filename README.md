@@ -19,15 +19,19 @@ By default this will produce an iframe with a height of 360px and a width of 640
 ###  Customizing Parameters:
 
 Width in pixels or percentage – default is 640px:
+
 ```[IMDB id="tt0063350" width="100%"]```
 
 Height in pixels or percentage – default is 360px:
+
 ```[IMDB id="tt0063350" height="500"]```
 
 CSS Class given to the iframe (for advanced customising using your stylsheet). Default is ‘hydra-iframe’ – leave this blank if you are unsure.
+
 ```[IMDB id="tt0063350" class="my-custom-class"]```
 
 Frameborder for your iframe – default is 0.
+
 ```[IMDB id="tt0063350" frameborder="5"]```
 
 > **ProTip:** Ignore the custom params if you are happy with the defaults. You may use all or just several of these parameters and in any order.
@@ -53,7 +57,7 @@ Why are all my embedded movies showing the 1968 film Night of the Living Dead?
 ###  Screenshot
 
 
-![IMDB Auto Embed Movie Plugin for Wordpress](example)
+![IMDB Auto Embed Movie Plugin for Wordpress](https://github.com/Kay-Tan/imdb-auto-embed/blob/master/assets/screenshot-1.png?raw=true)
 
 ###  Copyright Disclaimer
 
